@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hayrina.app",
+      "sha256_cert_fingerprints": [
+        "38:F4:DD:1D:1F:DF:3E:44:97:71:C8:79:4B:3F:93:D3:FD:DF:CF:C8:CF:C4:A3:1F:48:AE:93:ED:73:48:92:BF",
+        "89:CD:CA:64:80:42:77:CC:5A:86:2C:D3:12:22:83:71:5C:C7:8E:7D:96:1A:F3:15:E5:4E:81:38:C3:6A:BA:03"
+      ]
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["LLBX9LS5AK.com.hayrina.app"],
+        "components": [
+          { "/": "/listing/*" },
+          { "/": "/chat/*" }
+        ]
+      }
+    ]
+  }
+}
